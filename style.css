@@ -1,0 +1,162 @@
+#head{
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: gray;
+    color: whitesmoke;
+    width: 25%;
+    height: 110px;
+    text-align: center;
+    font-size: x-large;
+    box-shadow: 6px 7px 2px rgb(46, 46, 46);
+    text-shadow: 0.8px 1px grey;
+    position: relative;
+    left: 35%;
+}
+
+#fourDiv{
+    border: 5px solid black;
+    display: flex;
+    flex-wrap: wrap;
+   
+    
+}
+
+.insideDiv-1-4{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 3px;
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: gray;
+    color: whitesmoke;
+    width: 20%;
+    height: 140px;
+    text-align: center;
+    font-size: x-large;
+    box-shadow: 6px 7px 2px rgb(46, 46, 46);
+    text-shadow: 0.6px 1px grey;
+    position: relative;
+    
+    
+}
+
+img[src$=".jpg"] {
+    width: 70%; 
+    height: 100px; 
+    margin: 10px;
+}
+
+
+#move{
+    
+    margin-left: 45%;
+    
+}
+
+#adjust{
+
+    text-align: start;
+    font-size: 17;
+    text-shadow: 0.2px 1px grey;
+    
+    
+
+}
+
+#move2{
+    margin-left: 45%;
+    font-size: x-small;
+    
+}
+
+#button{
+    border: 2px solid black;
+    border-radius: 8px;
+    
+}
+
+#fixed{
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: gray;
+    color: whitesmoke;
+    width: 25%;
+    height: 80px;
+    font-size: x-large;
+    
+    left: 35%;
+    position: fixed;
+    bottom: 15px;
+   
+}
+
+#fix1{
+    margin-left: 3%;
+    font-size: medium;
+    
+    
+}
+
+#fix2{
+     margin-top: -8%;
+     font-size: 12px;
+    margin-left: 60%; 
+}
+
+
+#final-div{
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: gray;
+    color: whitesmoke;
+    width: 50%;
+    text-align: center;
+    font-size: x-large;
+
+    
+    margin: 15px;
+    margin-left: 25%;  
+
+}
+
+p{
+
+    font-size: small;
+
+}
+
+ #d1{
+    border: 3px solid black;
+    border-radius: 1px;
+    /* margin-right: 51%; */
+    margin: 0.5%;
+    width: 47.75%;
+   float: left;
+    
+
+}
+
+#d2{
+    border: 3px solid black;
+    border-radius: 1px; 
+    
+     margin: 0.5%;  
+     width: 47.75%;
+     float: right; 
+    
+     
+} 
+
+#d3{
+    border: 3px solid black; 
+    border-radius: 1px;
+    margin: 0.5%;
+    clear: right;
+
+}
+
+body{
+      background-color: skyblue; 
+     
+     
+}
